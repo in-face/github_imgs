@@ -1,0 +1,888 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="585" xml:lang="en">
+<defs>
+
+<style type="text/css">@import url(https://hosted.weblate.org/static/weblate_fonts/source-sans-3.d177b4492cd5.css);</style>
+
+</defs>
+<g id="layer1">
+
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/ar/" xlink:title="Arabic">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="20"
+   id="text20">Arabic</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="20"
+   id="percent20">51%</text>
+<rect
+   style="fill:#1565c0;fill-opacity:1;stroke:none"
+   id="rect20"
+   width="77"
+   height="6"
+   x="200"
+   rx="2"
+   y="14" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/az/" xlink:title="Azerbaijani">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="35"
+   id="text35">Azerbaijani</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="35"
+   id="percent35">0%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect35"
+   width="0"
+   height="6"
+   x="200"
+   rx="2"
+   y="29" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/bg/" xlink:title="Bulgarian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="50"
+   id="text50">Bulgarian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="50"
+   id="percent50">0%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect50"
+   width="0"
+   height="6"
+   x="200"
+   rx="2"
+   y="44" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/ca/" xlink:title="Catalan">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="65"
+   id="text65">Catalan</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="65"
+   id="percent65">4%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect65"
+   width="6"
+   height="6"
+   x="200"
+   rx="2"
+   y="59" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/zh_Hans/" xlink:title="Chinese (Simplified Han script)">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="80"
+   id="text80">Chinese (Simplified Han script)</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="80"
+   id="percent80">99%</text>
+<rect
+   style="fill:#158068;fill-opacity:1;stroke:none"
+   id="rect80"
+   width="149"
+   height="6"
+   x="200"
+   rx="2"
+   y="74" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/zh_Hant/" xlink:title="Chinese (Traditional Han script)">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="95"
+   id="text95">Chinese (Traditional Han script)</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="95"
+   id="percent95">56%</text>
+<rect
+   style="fill:#1565c0;fill-opacity:1;stroke:none"
+   id="rect95"
+   width="85"
+   height="6"
+   x="200"
+   rx="2"
+   y="89" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/hr/" xlink:title="Croatian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="110"
+   id="text110">Croatian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="110"
+   id="percent110">1%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect110"
+   width="1"
+   height="6"
+   x="200"
+   rx="2"
+   y="104" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/cs/" xlink:title="Czech">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="125"
+   id="text125">Czech</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="125"
+   id="percent125">44%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect125"
+   width="67"
+   height="6"
+   x="200"
+   rx="2"
+   y="119" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/nl/" xlink:title="Dutch">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="140"
+   id="text140">Dutch</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="140"
+   id="percent140">16%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect140"
+   width="25"
+   height="6"
+   x="200"
+   rx="2"
+   y="134" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/en/" xlink:title="English">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="155"
+   id="text155">English</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="155"
+   id="percent155">100%</text>
+<rect
+   style="fill:#158068;fill-opacity:1;stroke:none"
+   id="rect155"
+   width="150"
+   height="6"
+   x="200"
+   rx="2"
+   y="149" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/en_GB/" xlink:title="English (United Kingdom)">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="170"
+   id="text170">English (United Kingdom)</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="170"
+   id="percent170">10%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect170"
+   width="15"
+   height="6"
+   x="200"
+   rx="2"
+   y="164" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/fi/" xlink:title="Finnish">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="185"
+   id="text185">Finnish</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="185"
+   id="percent185">1%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect185"
+   width="2"
+   height="6"
+   x="200"
+   rx="2"
+   y="179" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/fr/" xlink:title="French">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="200"
+   id="text200">French</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="200"
+   id="percent200">59%</text>
+<rect
+   style="fill:#1565c0;fill-opacity:1;stroke:none"
+   id="rect200"
+   width="89"
+   height="6"
+   x="200"
+   rx="2"
+   y="194" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/de/" xlink:title="German">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="215"
+   id="text215">German</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="215"
+   id="percent215">75%</text>
+<rect
+   style="fill:#1565c0;fill-opacity:1;stroke:none"
+   id="rect215"
+   width="112"
+   height="6"
+   x="200"
+   rx="2"
+   y="209" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/el/" xlink:title="Greek">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="230"
+   id="text230">Greek</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="230"
+   id="percent230">6%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect230"
+   width="10"
+   height="6"
+   x="200"
+   rx="2"
+   y="224" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/hi/" xlink:title="Hindi">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="245"
+   id="text245">Hindi</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="245"
+   id="percent245">55%</text>
+<rect
+   style="fill:#1565c0;fill-opacity:1;stroke:none"
+   id="rect245"
+   width="83"
+   height="6"
+   x="200"
+   rx="2"
+   y="239" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/hu/" xlink:title="Hungarian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="260"
+   id="text260">Hungarian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="260"
+   id="percent260">2%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect260"
+   width="3"
+   height="6"
+   x="200"
+   rx="2"
+   y="254" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/id/" xlink:title="Indonesian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="275"
+   id="text275">Indonesian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="275"
+   id="percent275">88%</text>
+<rect
+   style="fill:#158068;fill-opacity:1;stroke:none"
+   id="rect275"
+   width="132"
+   height="6"
+   x="200"
+   rx="2"
+   y="269" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/ga/" xlink:title="Irish">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="290"
+   id="text290">Irish</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="290"
+   id="percent290">97%</text>
+<rect
+   style="fill:#158068;fill-opacity:1;stroke:none"
+   id="rect290"
+   width="146"
+   height="6"
+   x="200"
+   rx="2"
+   y="284" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/it/" xlink:title="Italian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="305"
+   id="text305">Italian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="305"
+   id="percent305">100%</text>
+<rect
+   style="fill:#158068;fill-opacity:1;stroke:none"
+   id="rect305"
+   width="150"
+   height="6"
+   x="200"
+   rx="2"
+   y="299" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/ja/" xlink:title="Japanese">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="320"
+   id="text320">Japanese</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="320"
+   id="percent320">99%</text>
+<rect
+   style="fill:#158068;fill-opacity:1;stroke:none"
+   id="rect320"
+   width="149"
+   height="6"
+   x="200"
+   rx="2"
+   y="314" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/ko/" xlink:title="Korean">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="335"
+   id="text335">Korean</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="335"
+   id="percent335">99%</text>
+<rect
+   style="fill:#158068;fill-opacity:1;stroke:none"
+   id="rect335"
+   width="149"
+   height="6"
+   x="200"
+   rx="2"
+   y="329" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/nb/" xlink:title="Norwegian Bokmål">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="350"
+   id="text350">Norwegian Bokmål</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="350"
+   id="percent350">4%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect350"
+   width="7"
+   height="6"
+   x="200"
+   rx="2"
+   y="344" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/fa/" xlink:title="Persian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="365"
+   id="text365">Persian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="365"
+   id="percent365">0%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect365"
+   width="0"
+   height="6"
+   x="200"
+   rx="2"
+   y="359" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/pl/" xlink:title="Polish">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="380"
+   id="text380">Polish</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="380"
+   id="percent380">43%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect380"
+   width="65"
+   height="6"
+   x="200"
+   rx="2"
+   y="374" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/pt/" xlink:title="Portuguese">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="395"
+   id="text395">Portuguese</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="395"
+   id="percent395">33%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect395"
+   width="50"
+   height="6"
+   x="200"
+   rx="2"
+   y="389" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/pt_BR/" xlink:title="Portuguese (Brazil)">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="410"
+   id="text410">Portuguese (Brazil)</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="410"
+   id="percent410">82%</text>
+<rect
+   style="fill:#1565c0;fill-opacity:1;stroke:none"
+   id="rect410"
+   width="123"
+   height="6"
+   x="200"
+   rx="2"
+   y="404" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/ro/" xlink:title="Romanian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="425"
+   id="text425">Romanian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="425"
+   id="percent425">80%</text>
+<rect
+   style="fill:#1565c0;fill-opacity:1;stroke:none"
+   id="rect425"
+   width="120"
+   height="6"
+   x="200"
+   rx="2"
+   y="419" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/ru/" xlink:title="Russian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="440"
+   id="text440">Russian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="440"
+   id="percent440">99%</text>
+<rect
+   style="fill:#158068;fill-opacity:1;stroke:none"
+   id="rect440"
+   width="149"
+   height="6"
+   x="200"
+   rx="2"
+   y="434" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/sr/" xlink:title="Serbian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="455"
+   id="text455">Serbian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="455"
+   id="percent455">5%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect455"
+   width="7"
+   height="6"
+   x="200"
+   rx="2"
+   y="449" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/sl/" xlink:title="Slovenian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="470"
+   id="text470">Slovenian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="470"
+   id="percent470">0%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect470"
+   width="0"
+   height="6"
+   x="200"
+   rx="2"
+   y="464" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/es/" xlink:title="Spanish">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="485"
+   id="text485">Spanish</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="485"
+   id="percent485">96%</text>
+<rect
+   style="fill:#158068;fill-opacity:1;stroke:none"
+   id="rect485"
+   width="145"
+   height="6"
+   x="200"
+   rx="2"
+   y="479" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/sv/" xlink:title="Swedish">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="500"
+   id="text500">Swedish</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="500"
+   id="percent500">1%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect500"
+   width="2"
+   height="6"
+   x="200"
+   rx="2"
+   y="494" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/tr/" xlink:title="Turkish">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="515"
+   id="text515">Turkish</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="515"
+   id="percent515">78%</text>
+<rect
+   style="fill:#1565c0;fill-opacity:1;stroke:none"
+   id="rect515"
+   width="117"
+   height="6"
+   x="200"
+   rx="2"
+   y="509" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/uk/" xlink:title="Ukrainian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="530"
+   id="text530">Ukrainian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="530"
+   id="percent530">37%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect530"
+   width="56"
+   height="6"
+   x="200"
+   rx="2"
+   y="524" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/ur/" xlink:title="Urdu">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="545"
+   id="text545">Urdu</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="545"
+   id="percent545">2%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect545"
+   width="3"
+   height="6"
+   x="200"
+   rx="2"
+   y="539" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/ug/" xlink:title="Uyghur">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="560"
+   id="text560">Uyghur</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="560"
+   id="percent560">24%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect560"
+   width="36"
+   height="6"
+   x="200"
+   rx="2"
+   y="554" />
+</a>
+
+<a xlink:href="https://hosted.weblate.org/projects/trilium/-/vi/" xlink:title="Vietnamese">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080;text-anchor:end;"
+   x="190"
+   y="575"
+   id="text575">Vietnamese</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',sans-serif;fill:#808080"
+   x="360"
+   y="575"
+   id="percent575">2%</text>
+<rect
+   style="fill:#cc3d20;fill-opacity:1;stroke:none"
+   id="rect575"
+   width="4"
+   height="6"
+   x="200"
+   rx="2"
+   y="569" />
+</a>
+
+
+</g>
+</svg>
+
+
