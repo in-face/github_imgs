@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1128.72666622" height="951.999762" font-family="'Cascadia Code','Source Code Pro',Menlo,Consolas,'DejaVu Sans Mono',monospace,'Symbols Nerd Font'" font-size="14px">
+  <style>
+    .br { font-weight: bold }
+    .fa { fill-opacity: 0.5 }
+    .it { font-style: italic }
+    .un { text-decoration: underline }
+    .term-text tspan tspan { white-space: pre }
+
+    @font-face {
+      font-family: "Symbols Nerd Font";
+      src: url("https://asciinema.org/fonts/SymbolsNerdFont-Regular-337b40fc23735cb78fbe3379fae18138.woff2?vsn=d") format("woff2");
+    }
+
+  </style>
+
+  <rect width="100%" height="100%" style="fill: #121314" rx="4" ry="4"></rect>
+
+  <svg x="8.42333333" y="9.333331000000001" class="default-text-fill">
+    <image x="0" y="0" width="1111.87999956" height="933.3331000000001" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABCAAAASwCAIAAACl6KxxAAAcDUlEQVR4Xu3XsY1dRxZF0ekU2ExBQQxpMonOgaEwBkVByKM7nDwkmd+mPQm0CiCwee+b12uZhcIplLmf3j2//xcAAEDhSWAAAAAVgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkBEYAABARmAAAAAZgQEAAGQEBgAAkHl6eXnJxjY8Ho+NZzPfPn3Otl7z4euX147fnB8/fvzSP//519+/dB8A4P+FwFgmMGYIDACAGQJjmcCYITAAAGYIjGUCY4bAAACYITCWCYwZAgMAYIbAWCYwZggMAIAZAmOZwJghMAAAZgiMZQJjhsAAAJghMJYJjBkCAwBghsBYJjBmCAwAgBkCY5nAmCEwAABmCIxlAmOGwAAAmCEwlgmMGQIDAGCGwFgmMGYIDACAGQJjmcCYITAAAGYIjGUCY4bAAACYITCWCYwZAgMAYIbAWCYwZggMAIAZAmOZwJghMAAAZgiMZQJjhsAAAJghMJYJjBkCAwBghsBYJjBmCAwAgBkCY5nAmCEwAABmCIxlAmOGwAAAmPH07vn9zEsAAMDtCQwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwAACAjMAAAgIzAAAAAMgIDAADICAwA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ADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyAgMAAAgIzAAAICMwAAAADICAwAAyPwPjkVILL8Kh48AAAAASUVORK5CYII=" preserveAspectRatio="none" style="image-rendering: pixelated; image-rendering: crisp-edges;"></image>
+
+
+        <svg x="67.2181999734" y="37.333324000000005" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#585858"></path>
+</svg>
+
+        <svg x="134.60486661340002" y="37.333324000000005" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#444444"></path>
+</svg>
+
+        <svg x="168.2981999334" y="37.333324000000005" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#0087af"></path>
+</svg>
+
+        <svg x="260.9548665634" y="37.333324000000005" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#3a3a3a"></path>
+</svg>
+
+        <svg x="294.64819988339997" y="37.333324000000005" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#303030"></path>
+</svg>
+
+
+
+        <svg x="67.2181999734" y="279.99993" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#585858"></path>
+</svg>
+
+        <svg x="134.60486661340002" y="279.99993" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#444444"></path>
+</svg>
+
+        <svg x="168.2981999334" y="279.99993" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#0087af"></path>
+</svg>
+
+        <svg x="260.9548665634" y="279.99993" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#3a3a3a"></path>
+</svg>
+
+        <svg x="328.3415332034" y="279.99993" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#d7005f"></path>
+</svg>
+
+        <svg x="362.03486652339996" y="279.99993" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#d7005f"></path>
+</svg>
+
+
+
+        <svg x="67.2181999734" y="335.99991600000004" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#585858"></path>
+</svg>
+
+        <svg x="134.60486661340002" y="335.99991600000004" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#444444"></path>
+</svg>
+
+        <svg x="168.2981999334" y="335.99991600000004" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#0087af"></path>
+</svg>
+
+        <svg x="260.9548665634" y="335.99991600000004" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#3a3a3a"></path>
+</svg>
+
+        <svg x="328.3415332034" y="335.99991600000004" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#d7005f"></path>
+</svg>
+
+        <svg x="362.03486652339996" y="335.99991600000004" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#d7005f"></path>
+</svg>
+
+
+
+        <svg x="67.2181999734" y="503.99987400000003" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#585858"></path>
+</svg>
+
+        <svg x="134.60486661340002" y="503.99987400000003" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#444444"></path>
+</svg>
+
+        <svg x="168.2981999334" y="503.99987400000003" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#0087af"></path>
+</svg>
+
+        <svg x="260.9548665634" y="503.99987400000003" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#3a3a3a"></path>
+</svg>
+
+        <svg x="294.64819988339997" y="503.99987400000003" width="8.760266663200001" height="18.666662000000002" viewBox="0 0 1 1" preserveAspectRatio="none" overflow="visible">
+  <path d="M0,0 L1,0.5 L0,1 Z" fill="#303030"></path>
+</svg>
+
+
+    <text xml:space="preserve" class="term-text" style="fill: #cccccc">
+      <tspan y="0.0">
+        <tspan dy="1em" x="0.0">Welcome to fish, the friendly interactive shell                                                                                     </tspan>
+      </tspan><tspan y="18.666662000000002">
+        <tspan dy="1em" x="0.0">Type </tspan><tspan x="42.11666665" style="fill: #4ebf22">help</tspan><tspan x="75.80999997"> for instructions on how to use fish                                                                                       </tspan>
+      </tspan><tspan y="37.333324000000005">
+        <tspan dy="1em" x="0.0" style="fill: #bcbcbc"> martin </tspan><tspan x="75.80999997" style="fill: #bcbcbc"> vader </tspan><tspan x="143.19666661" style="fill: #ffffff"> ~ </tspan><tspan x="176.88999993000002" style="fill: #e4e4e4"> Quickemu </tspan><tspan x="269.54666656" style="fill: #ffffff"> $ </tspan><tspan x="303.23999988"> </tspan><tspan x="311.66333321" style="fill: #4ebf22">quickget</tspan><tspan x="379.04999985">                                                                                       </tspan>
+      </tspan><tspan y="55.99998600000001">
+        <tspan dy="1em" x="0.0">ERROR! You must specify an operating system.                                                                                        </tspan>
+      </tspan><tspan y="74.66664800000001">
+        <tspan dy="1em" x="0.0">- Supported Operating Systems:                                                                                                      </tspan>
+      </tspan><tspan y="93.33331000000001">
+        <tspan dy="1em" x="0.0">alma alpine android antix archcraft archlinux arcolinux artixlinux athenaos batocera bazzite biglinux blendos bodhi bunsenlabs      </tspan>
+      </tspan><tspan y="111.99997200000001">
+        <tspan dy="1em" x="0.0">cachyos centos-stream chimeralinux crunchbang++ debian deepin devuan dragonflybsd easyos edubuntu elementary endeavouros endless    </tspan>
+      </tspan><tspan y="130.66663400000002">
+        <tspan dy="1em" x="0.0">fedora freebsd freedos garuda gentoo ghostbsd gnomeos guix haiku holoiso kali kdeneon kolibrios kubuntu linuxlite linuxmint lmde    </tspan>
+      </tspan><tspan y="149.33329600000002">
+        <tspan dy="1em" x="0.0">lubuntu macos mageia manjaro mxlinux netboot netbsd nitrux nixos nwg-shell openbsd openindiana opensuse oraclelinux parrotsec       </tspan>
+      </tspan><tspan y="167.99995800000002">
+        <tspan dy="1em" x="0.0">peppermint popos porteus primtux pureos reactos rebornos rockylinux siduction slackware slax slint slitaz solus sparkylinux         </tspan>
+      </tspan><tspan y="186.66662000000002">
+        <tspan dy="1em" x="0.0">spirallinux tails tinycore trisquel truenas-core truenas-scale tuxedo-os ubuntu ubuntu-budgie ubuntu-mate ubuntu-server             </tspan>
+      </tspan><tspan y="205.33328200000003">
+        <tspan dy="1em" x="0.0">ubuntu-unity ubuntucinnamon ubuntukylin ubuntustudio vanillaos void vxlinux windows windows-server xubuntu zorin                    </tspan>
+      </tspan><tspan y="223.99994400000003">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="242.66660600000003">
+        <tspan dy="1em" x="0.0">To see all possible arguments, use:                                                                                                 </tspan>
+      </tspan><tspan y="261.33326800000003">
+        <tspan dy="1em" x="0.0">   quickget -h  or  quickget --help                                                                                                 </tspan>
+      </tspan><tspan y="279.99993">
+        <tspan dy="1em" x="0.0" style="fill: #bcbcbc"> martin </tspan><tspan x="75.80999997" style="fill: #bcbcbc"> vader </tspan><tspan x="143.19666661" style="fill: #ffffff"> ~ </tspan><tspan x="176.88999993000002" style="fill: #e4e4e4"> Quickemu </tspan><tspan x="269.54666656" style="fill: #ffffff"> ERROR </tspan><tspan x="336.9333332" style="fill: #ffffff"> $ </tspan><tspan x="370.62666652"> </tspan><tspan x="379.04999985" style="fill: #4ebf22">quickget</tspan><tspan x="446.43666649"> </tspan><tspan x="454.85999982" class="un" style="fill: #26b0d7">alpine</tspan><tspan x="505.3999998">                                                                        </tspan>
+      </tspan><tspan y="298.66659200000004">
+        <tspan dy="1em" x="0.0">ERROR! You must specify a release.                                                                                                  </tspan>
+      </tspan><tspan y="317.333254">
+        <tspan dy="1em" x="0.0"> - Releases: v3.19 v3.18 v3.17 v3.16 v3.15 v3.14 v3.13 v3.12 v3.11 </tspan><tspan x="564.36333311" class="fa">⏎</tspan><tspan x="572.78666644">                                                                </tspan>
+      </tspan><tspan y="335.99991600000004">
+        <tspan dy="1em" x="0.0" style="fill: #bcbcbc"> martin </tspan><tspan x="75.80999997" style="fill: #bcbcbc"> vader </tspan><tspan x="143.19666661" style="fill: #ffffff"> ~ </tspan><tspan x="176.88999993000002" style="fill: #e4e4e4"> Quickemu </tspan><tspan x="269.54666656" style="fill: #ffffff"> ERROR </tspan><tspan x="336.9333332" style="fill: #ffffff"> $ </tspan><tspan x="370.62666652"> </tspan><tspan x="379.04999985" style="fill: #4ebf22">quickget</tspan><tspan x="446.43666649"> </tspan><tspan x="454.85999982" style="fill: #26b0d7">alpine</tspan><tspan x="505.3999998"> </tspan><tspan x="513.82333313" class="un" style="fill: #26b0d7">v3.19</tspan><tspan x="555.93999978">                                                                  </tspan>
+      </tspan><tspan y="354.666578">
+        <tspan dy="1em" x="0.0">Downloading Alpine Linux v3.19                                                                                                      </tspan>
+      </tspan><tspan y="373.33324000000005">
+        <tspan dy="1em" x="0.0">- URL: https://dl-cdn.alpinelinux.org/alpine/v3.19/releases/x86_64/alpine-virt-3.19.1-x86_64.iso                                    </tspan>
+      </tspan><tspan y="391.999902">
+        <tspan dy="1em" x="0.0">############################################################################################################################# 100.0%</tspan>
+      </tspan><tspan y="410.66656400000005">
+        <tspan dy="1em" x="0.0">Checking alpine-v3.19/alpine-virt-3.19.1-x86_64.iso with sha256sum... Good!                                                         </tspan>
+      </tspan><tspan y="429.333226">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="447.99988800000006">
+        <tspan dy="1em" x="0.0">To start your Alpine Linux virtual machine run:                                                                                     </tspan>
+      </tspan><tspan y="466.66655000000003">
+        <tspan dy="1em" x="0.0">    quickemu --vm alpine-v3.19.conf                                                                                                 </tspan>
+      </tspan><tspan y="485.33321200000006">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="503.99987400000003">
+        <tspan dy="1em" x="0.0" style="fill: #bcbcbc"> martin </tspan><tspan x="75.80999997" style="fill: #bcbcbc"> vader </tspan><tspan x="143.19666661" style="fill: #ffffff"> ~ </tspan><tspan x="176.88999993000002" style="fill: #e4e4e4"> Quickemu </tspan><tspan x="269.54666656" style="fill: #ffffff"> $ </tspan><tspan x="303.23999988"> </tspan><tspan x="311.66333321" style="fill: #4ebf22">cat</tspan><tspan x="336.9333332"> </tspan><tspan x="345.35666653" class="un" style="fill: #26b0d7">alpine-v3.19.conf</tspan><tspan x="488.55333314"> </tspan><tspan x="496.97666647" style="fill: #000000"> </tspan><tspan x="505.3999998">                                                                        </tspan>
+      </tspan><tspan y="522.6665360000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="541.333198">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="559.99986">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="578.6665220000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="597.3331840000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="615.999846">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="634.666508">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="653.33317">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="671.9998320000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="690.6664940000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="709.333156">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="727.999818">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="746.6664800000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="765.3331420000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="783.999804">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="802.666466">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="821.3331280000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="839.9997900000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="858.666452">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="877.333114">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="895.9997760000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan><tspan y="914.6664380000001">
+        <tspan dy="1em" x="0.0">                                                                                                                                    </tspan>
+      </tspan>
+    </text>
+  </svg>
+
+  <svg x="469.163" y="380.8" width="190.4" height="190.4">
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000.0 1000.0" style="filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.4))">
+  <defs>
+    <mask id="small-triangle-mask">
+      <rect width="100%" height="100%" fill="white"></rect>
+      <polygon points="700.0 500.0, 400.00000000000006 326.7949192431122, 399.9999999999999 673.2050807568877" fill="black">
+      </polygon>
+    </mask>
+  </defs>
+  <polygon points="1000.0 500.0, 250.0000000000001 66.98729810778059, 249.99999999999977 933.0127018922192" mask="url(#small-triangle-mask)" fill="white">
+  </polygon>
+  <polyline points="673.2050807568878 400.0, 326.7949192431123 600.0" stroke="white" stroke-width="90">
+  </polyline>
+</svg>
+  </svg>
+</svg>
